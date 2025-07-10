@@ -3,8 +3,8 @@ public class Main {
         Banco banco = new Banco("Banco Exemplo");
 
         // Criar clientes
-        Cliente cliente1 = new Cliente("Jansen Alexandre", "16809375708", "21971461095");
-        Cliente cliente2 = new Cliente("Maria Silva", "12345678900", "21987654321");
+        Cliente cliente1 = new Cliente("Jansen Alexandre", "00009000708", "21000461095");
+        Cliente cliente2 = new Cliente("Maria Silva", "12000678900", "21987650021");
 
         banco.adicionarCliente(cliente1);
         banco.adicionarCliente(cliente2);
